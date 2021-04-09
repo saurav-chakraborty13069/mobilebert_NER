@@ -1,0 +1,1 @@
+{"bert_model": "google/mobilebert-uncased", "do_lower": false, "max_seq_length": 128, "num_labels": 16, "label_map": {"1": "O", "2": "B-A1", "3": "I-A1", "4": "B-A2", "5": "I-A2", "6": "B-A3", "7": "I-A3", "8": "B-C", "9": "I-C", "10": "B-S", "11": "I-S", "12": "B-PC", "13": "I-PC", "14": "[CLS]", "15": "[SEP]"}}
